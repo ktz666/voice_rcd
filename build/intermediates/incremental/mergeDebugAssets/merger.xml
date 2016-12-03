@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidDemo\voice_rcd\assets"/><source path="E:\AndroidDemo\voice_rcd\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AndroidDemo\voice_rcd\build-types\debug\assets"/></dataSet></merger>

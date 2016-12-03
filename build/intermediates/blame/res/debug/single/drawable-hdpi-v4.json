@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable-hdpi\\xiaohei_big.jpg"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable-hdpi\\chat_bg_default.jpg"
+    }
+]

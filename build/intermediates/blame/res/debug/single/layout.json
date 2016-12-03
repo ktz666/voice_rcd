@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\layout\\voice_rcd_hint_window.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\layout\\voice_rcd_hint_window.xml"
+    }
+]

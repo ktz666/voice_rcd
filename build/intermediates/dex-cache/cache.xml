@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidDemo\voice_rcd\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d415624f9d54742eb4b73f14d41a7198b798619">
+        <dex dex="E:\AndroidDemo\voice_rcd\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7b609e3e2ba4e5516feec1ad74af20b8475cb2d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidDemo\voice_rcd\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="E:\AndroidDemo\voice_rcd\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_f2f87869af75f5f3aecd8382c38d8ba77459253c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidDemo\voice_rcd\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61980fcba64d8c50eb5c091920c76cf25d02f8ef">
+        <dex dex="E:\AndroidDemo\voice_rcd\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6c3d8e248a19a6a563300ffd2aa8a31ec110cb82\classes.dex" />
+    </item>
+
+</items>

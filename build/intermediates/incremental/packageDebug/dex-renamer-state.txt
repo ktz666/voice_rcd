@@ -1,0 +1,7 @@
+#Sat Dec 03 17:21:01 CST 2016
+base.0=E\:\\AndroidDemo\\voice_rcd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7b609e3e2ba4e5516feec1ad74af20b8475cb2d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidDemo\\voice_rcd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6c3d8e248a19a6a563300ffd2aa8a31ec110cb82\\classes.dex
+base.1=E\:\\AndroidDemo\\voice_rcd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6c3d8e248a19a6a563300ffd2aa8a31ec110cb82
+file.0=E\:\\AndroidDemo\\voice_rcd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7b609e3e2ba4e5516feec1ad74af20b8475cb2d6\\classes.dex

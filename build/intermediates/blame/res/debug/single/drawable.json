@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_btn.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\chat_send_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_right.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\title_btn_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_back.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\title_btn_back.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_voice_btn.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_msg_btn.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\chatting_setmode_msg_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\voice_rcd\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\AndroidDemo\\voice_rcd\\res\\drawable\\chatfrom_bg.xml"
+    }
+]
